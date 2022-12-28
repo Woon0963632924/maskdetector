@@ -1,0 +1,6 @@
+keras
+scikit-learn
+numpy
+opencv-python
+tensorflow-macos
+imutils
